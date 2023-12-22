@@ -1,0 +1,168 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Overpass&display=swap");
+
+/* 
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #000000;
+}
+
+.container {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #000000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 5em;
+    background: linear-gradient(to right, #ff00cc, #3333cc);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+  }
+h4{
+    font-family: "Open Sans", sans-serif;
+   
+}
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 40px; 
+    height: 40px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #000000;
+    
+}
+
+.container {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #000000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 5em;
+    background: linear-gradient(to right, #ff00cc, #3333cc);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    margin: 0;
+}
+
+h4 {
+    font-family: "Open Sans", sans-serif;
+    margin: 0; 
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 40px; /* Adjust the size as needed */
+
+    
+*/
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000; /* Set background color to black */
+    color: white; /* Set text color to white */
+    overflow: hidden; /* Prevent scrolling */
+}
+
+.container {
+    text-align: center;
+}
+
+.content {
+    background-color: #000000; /* Set background color to black */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 5em;
+    background: linear-gradient(to right,hwb(49 0% 0%), #5cca30);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    margin: 0;
+}
+
+h4 {
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 40px;
+    height: 40px;
+}
+
+/* Adjust the percentage to your liking */
+body {
+    justify-content: center; /* Center vertically */
+    margin-top: 29vh; /* Push down by 20% of the viewport height */
+}
+
